@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+    #url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+    #url: /talks/    
 
   #- title: "Teaching"
     #url: /teaching/    
@@ -16,7 +16,7 @@ main:
     #url: /year-archive/
     
   - title: "CV"
-    url: /files/Su_Li_CV_Nov_2023.pdf
+    url: /files/Su_Li_CV_Jan_2025.pdf
     
   #- title: "Guide"
     #url: /markdown/
