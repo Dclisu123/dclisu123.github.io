@@ -30,6 +30,20 @@ I was recognized as the **Outstanding Student** in the Wm Michael Barnes ’64 D
 - B.Eng. in Industrial Engineering, The Hong Kong Polytechnic University, 2017
 
 ---
+## Publications
+
+**Published Papers**
+1. Li, S., & Aprahamian, H. (2024). An optimization-based framework to minimize the spread of diseases in social networks with heterogeneous nodes. *IISE Transactions, 56*(2), 128-142.
+2. Li, S., & Aprahamian, H. (2024). Quantifying the benefits of customized vaccination strategies: A network-based optimization approach. *Naval Research Logistics (NRL), 71*(1), 64-86.
+3. Li, S., Aprahamian, H., Nouiehed, M., & El-Amine, H. (2024). An Optimization-Based Order-and-Cut Approach for Fair Clustering of Data Sets. *INFORMS Journal on Data Science, 3*(2), 124-144.
+4. Barth, J., Li, S., Aprahamian, H., & Gupta, D. (2024). Spatiotemporal vaccine allocation policies for epidemics with behavioral feedback dynamics. *Naval Research Logistics (NRL), 71*(1), 109-139.
+
+**Submitted Papers / Working Papers**
+1. Li, S., Aprahamian, H. & Chatterjee, S. (2024). A Convex Relaxation-Based Spatial Branching Approach for Optimal Robust Group Testing Designs under Prevalence Rate and Dilution Behavior Uncertainty. *Third round revision at INFORMS Journal on Computing.*
+2. Li, S., Lin, J., & Aprahamian, H. (2024). An Integrated Strategy for Controlling Infectious Disease Outbreaks: Social Distancing, Mass Screening, and Vaccine Distribution. *Working paper.*
+3. Lin, J., Li, S., & Aprahamian, H. (2024). A Multi-period Mass Screening Framework for the Optimal Control of Infectious Disease Outbreaks. *Working paper.*
+   
+---
 ## Teaching Experience
 
 **Teaching Assistant**  
@@ -54,20 +68,6 @@ I was recognized as the **Outstanding Student** in the Wm Michael Barnes ’64 D
 - Health Care Management Science  
 - INFOR: Information Systems and Operational Research  
 - Journal of Supercomputing
-
----
-## Publications
-
-**Published Papers**
-1. Li, S., & Aprahamian, H. (2024). An optimization-based framework to minimize the spread of diseases in social networks with heterogeneous nodes. *IISE Transactions, 56*(2), 128-142.
-2. Li, S., & Aprahamian, H. (2024). Quantifying the benefits of customized vaccination strategies: A network-based optimization approach. *Naval Research Logistics (NRL), 71*(1), 64-86.
-3. Li, S., Aprahamian, H., Nouiehed, M., & El-Amine, H. (2024). An Optimization-Based Order-and-Cut Approach for Fair Clustering of Data Sets. *INFORMS Journal on Data Science, 3*(2), 124-144.
-4. Barth, J., Li, S., Aprahamian, H., & Gupta, D. (2024). Spatiotemporal vaccine allocation policies for epidemics with behavioral feedback dynamics. *Naval Research Logistics (NRL), 71*(1), 109-139.
-
-**Submitted Papers / Working Papers**
-1. Li, S., Aprahamian, H. & Chatterjee, S. (2024). A Convex Relaxation-Based Spatial Branching Approach for Optimal Robust Group Testing Designs under Prevalence Rate and Dilution Behavior Uncertainty. *Third round revision at INFORMS Journal on Computing.*
-2. Li, S., Lin, J., & Aprahamian, H. (2024). An Integrated Strategy for Controlling Infectious Disease Outbreaks: Social Distancing, Mass Screening, and Vaccine Distribution. *Working paper.*
-3. Lin, J., Li, S., & Aprahamian, H. (2024). A Multi-period Mass Screening Framework for the Optimal Control of Infectious Disease Outbreaks. *Working paper.*
 
 ---
 ## Contact Information
