@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Su Li"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Su Li"
+description              : &description "Postdoctoral Fellow at University of Toronto, working on operations research, Markov Decision Processes, and healthcare systems optimization."
 url                      : https://dclisu123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Dclisu123/dclisu123.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Su Li"
   avatar           : "profile.png"
-  bio              : "Postdoctral Fellow at University of Toronto"
+  bio              : "Postdoctoral Fellow at University of Toronto"
   location         : "Toronto, ON, Canada"
   employer         :
   pubmed           : 
