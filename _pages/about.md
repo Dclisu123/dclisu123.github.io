@@ -41,8 +41,6 @@ I was recognized as the **Outstanding Student** in the Wm Michael Barnes '64 Dep
 
 **Working Papers**
 1. Cire, A., Diamant, A., Li, S., & Sarhangian, V. (2025). Revealing state-relevance weights in dual approximate linear programming. *Working paper.*
-2. Li, S., Lin, J., & Aprahamian, H. (2024). An Integrated Strategy for Controlling Infectious Disease Outbreaks: Social Distancing, Mass Screening, and Vaccine Distribution. *Working paper.*
-3. Lin, J., Li, S., & Aprahamian, H. (2024). A Multi-period Mass Screening Framework for the Optimal Control of Infectious Disease Outbreaks. *Working paper.*
 
 ---
 ## Teaching Experience
