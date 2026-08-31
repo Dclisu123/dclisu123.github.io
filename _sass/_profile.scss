@@ -2,6 +2,14 @@
    Academic profile
    ========================================================================== */
 
+.page--wide {
+  @include breakpoint($large) {
+    @include span(12 of 12 last);
+    @include prefix(1 of 12);
+    @include suffix(1 of 12);
+  }
+}
+
 .profile-hero {
   position: relative;
   overflow: hidden;

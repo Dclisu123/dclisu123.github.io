@@ -2,7 +2,8 @@
 permalink: /
 title: "Profile"
 excerpt: "Optimization, decision science, and healthcare operations"
-author_profile: true
+author_profile: false
+wide: true
 redirect_from:
   - /about/
   - /about.html
