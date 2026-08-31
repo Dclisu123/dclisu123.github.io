@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant – Operations Research & Industrial Engineering"
+title: "Teaching Assistant — Operations Research and Industrial Engineering"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2022-tamu-teaching
@@ -8,17 +8,11 @@ date: 2022-05-01
 location: "College Station, Texas"
 ---
 
-Served as Teaching Assistant for multiple undergraduate and graduate courses in Industrial Engineering and Operations Research at Texas A&M University (May 2022 – December 2023).
+Served as a Teaching Assistant for undergraduate and graduate courses in industrial engineering and operations research at Texas A&M University from May 2022 through December 2023.
 
 ## Courses
 
-- **ISEN 620/320:** Survey Optimization / Operation Research I
-- **ISEN 340:** Operation Research II
+- **ISEN 620/320:** Survey of Optimization / Operations Research I
+- **ISEN 340:** Operations Research II
 - **ISEN 302:** Economic Analysis of Engineering Projects
 - **ISEN 230:** Informatics for Industrial Engineers
-
-## Responsibilities
-
-- Held office hours and recitation sessions to support student learning
-- Graded assignments, quizzes, and exams
-- Assisted in course material development and student mentoring

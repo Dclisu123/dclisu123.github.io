@@ -36,6 +36,12 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.collection == 'publications' and page.status == 'submitted' %}
+          <p>Submitted to <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
+        {% elsif page.collection == 'publications' and page.status == 'working' %}
+          <p>Working paper, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
+        {% elsif page.collection == 'publications' and page.status == 'article-in-advance' %}
+          <p>Article in Advance, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
@@ -47,6 +53,10 @@ layout: default
           <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
+        {% endif %}
+
+        {% if page.highlight %}
+          <p><strong>Recognition:</strong> {{ page.highlight }}</p>
         {% endif %}
     
         </header>

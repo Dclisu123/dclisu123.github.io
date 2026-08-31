@@ -1,11 +1,11 @@
 ---
-title: "Conference Presentation"
+title: "INFORMS Computing Society Conference 2025"
 collection: talks
-type: "Conference Presentation"
+type: "Invited Conference Presentation"
 permalink: /talks/2025-01-01-informs-computing
-venue: "INFORMS Computing Society Conference 2025"
+venue: "INFORMS Computing Society Conference"
 date: 2025-01-01
 location: "Toronto, Canada"
 ---
 
-Presented research at the INFORMS Computing Society Conference 2025.
+Invited presentation at the 2025 INFORMS Computing Society Conference in Toronto, Canada.
