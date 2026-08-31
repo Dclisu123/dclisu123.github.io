@@ -1,27 +1,16 @@
 ---
 permalink: /
-title: "Profile"
+title: false
 excerpt: "Optimization, decision science, and healthcare operations"
-author_profile: false
-wide: true
+author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<section class="profile-hero" aria-labelledby="profile-focus">
-  <p class="profile-hero__eyebrow">Optimization · Decision Science · Healthcare</p>
-  <h2 id="profile-focus">Turning complex health systems into better decisions.</h2>
-  <p>I develop optimization and decision-analytic methods for problems where uncertainty, limited resources, and human outcomes meet—from cancer care delivery to public-health interventions.</p>
-  <div class="profile-hero__links">
-    <a href="/publications/">Explore publications</a>
-    <a href="/files/Su_Li_CV_Aug_2026.pdf">Download CV</a>
-  </div>
-</section>
-
 ## Background
 
-I hold a joint appointment as a **Postdoctoral Fellow** in the [Department of Computational Applied Mathematics and Operations Research at Rice University](https://cmor.rice.edu/) and a **Research Collaborator** at [The University of Texas MD Anderson Cancer Center](https://www.mdanderson.org/). I work with [Dr. Andrew J. Schaefer](https://profiles.rice.edu/faculty/andrew-schaefer) at Rice and Dr. Iakovos Toumazis at MD Anderson.
+I hold a joint appointment as a **Postdoctoral Fellow** in the [Department of Computational Applied Mathematics and Operations Research at Rice University](https://cmor.rice.edu/) and a **Research Collaborator** at [The University of Texas MD Anderson Cancer Center](https://www.mdanderson.org/). I work with [Dr. Andrew J. Schaefer](https://profiles.rice.edu/faculty/andrew-schaefer) at Rice and [Dr. Iakovos Toumazis](https://faculty.mdanderson.org/profiles/iakovos_toumazis.html) at MD Anderson.
 
 Previously, I was a Postdoctoral Fellow in the [Department of Mechanical and Industrial Engineering at the University of Toronto](https://mie.utoronto.ca/), working with [Dr. Vahid Sarhangian](https://sarhangian.mie.utoronto.ca/), [Dr. André Augusto Ciré](https://utsc.utoronto.ca/mgmt/andre-cire), and [Dr. Adam Diamant](https://schulich.yorku.ca/faculty/adam-diamant/). I earned my Ph.D. in Industrial Engineering from [Texas A&M University](https://engineering.tamu.edu/industrial/index.html) in 2024 under the supervision of [Dr. Hrayer Aprahamian](https://engineering.tamu.edu/industrial/profiles/aprahamian-hrayer.html).
 
