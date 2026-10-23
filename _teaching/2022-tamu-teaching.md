@@ -3,7 +3,7 @@ title: "Teaching Assistant — Operations Research and Industrial Engineering"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2022-tamu-teaching
-venue: "Texas A&M University, Wm Michael Barnes '64 Department of Industrial and Systems Engineering"
+venue: "Texas A&M University"
 date: 2022-05-01
 location: "College Station, Texas"
 ---

@@ -13,6 +13,4 @@ paperurl: ""
 citation: "<strong>Li, S.</strong>, Toumazis, I., Schaefer, A., Ishizawa, S., Ozik, J., Collier, N. T., Meza, R., Lam, S., & Khattra, S. (2026). A decision-analytic model to optimize diagnostic management for screen-detected pulmonary nodules. <i>Working paper</i>."
 ---
 
-We develop a decision-analytic model for selecting diagnostic management strategies for pulmonary nodules detected through lung cancer screening.
-
-**Presentation:** Accepted at WCLC 2026 (World Conference on Lung Cancer).
+We develop a decision-analytic model to optimize diagnostic management for screen-detected pulmonary nodules.

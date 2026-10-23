@@ -3,7 +3,7 @@ title: "Instructor — Optimization in Finance and OR in Healthcare"
 collection: teaching
 type: "Instructor"
 permalink: /teaching/2025-rice-instructor
-venue: "Rice University, Department of Computational Applied Mathematics and Operations Research"
+venue: "Rice University"
 date: 2025-08-01
 location: "Houston, Texas"
 ---

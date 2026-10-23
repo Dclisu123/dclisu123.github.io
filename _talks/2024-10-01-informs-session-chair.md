@@ -8,4 +8,4 @@ date: 2024-10-01
 location: "Seattle, WA"
 ---
 
-Session Chair for the invited session *Strengthening Healthcare Systems for Preparedness* at the INFORMS Annual Meeting 2024.
+Session Chair for the session *Strengthening Healthcare Systems for Preparedness* at the INFORMS Annual Meeting 2024.

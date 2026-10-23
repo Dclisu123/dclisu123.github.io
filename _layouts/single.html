@@ -49,14 +49,14 @@ layout: default
         {% endif %}
         
              
-        {% if page.citation and page.paperurl %}
+        {% if page.citation and page.paperurl and page.paperurl != "" %}
           <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
         {% endif %}
 
         {% if page.highlight %}
-          <p><strong>Recognition:</strong> {{ page.highlight }}</p>
+          <p><strong>{{ page.highlight_label | default: "Recognition" }}:</strong> {{ page.highlight }}</p>
         {% endif %}
     
         </header>

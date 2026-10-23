@@ -2,9 +2,9 @@
 title: "INFORMS Annual Meeting 2026"
 collection: talks
 type: "Invited Conference Presentation"
-permalink: /talks/2026-10-02-informs-presentation
+permalink: /talks/2026-11-01-informs-presentation
 venue: "INFORMS Annual Meeting"
-date: 2026-10-02
+date: 2026-11-01
 location: "San Francisco, CA"
 ---
 

@@ -11,4 +11,4 @@ paperurl: ""
 citation: "<strong>Li, S.</strong>, Powers, S., & Schaefer, A. J. (2026). Optimizing automated ball-strike challenges in Major League Baseball: A win-probability Markov decision model. <i>Working paper</i>."
 ---
 
-We formulate the decision to challenge an automated ball-strike call as a Markov decision model driven by changes in win probability.
+We develop a win-probability Markov decision model for optimizing automated ball-strike challenges in Major League Baseball.

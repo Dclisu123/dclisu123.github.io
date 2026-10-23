@@ -11,4 +11,4 @@ paperurl: ""
 citation: "<strong>Li, S.</strong>, & Schaefer, A. J. (2026). Shape-constrained approximate linear programming for integer-resource Markov decision processes via Chvátal–Gomory basis functions. <i>Working paper</i>."
 ---
 
-We introduce Chvátal–Gomory basis functions for shape-constrained approximate linear programming in integer-resource Markov decision processes.
+We study shape-constrained approximate linear programming for integer-resource Markov decision processes via Chvátal–Gomory basis functions.

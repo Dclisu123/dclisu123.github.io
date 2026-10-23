@@ -11,6 +11,6 @@ paperurl: "https://doi.org/10.48550/arXiv.2608.24629"
 citation: "<strong>Li, S.</strong>, Ciré, A., Diamant, A., & Sarhangian, V. (2026). Revealing state-relevance weights in dual approximate linear programming. <i>Submitted to Operations Research</i>."
 ---
 
-We study how state-relevance weights can be revealed through dual approximate linear programming for large-scale Markov decision processes.
+We study how state-relevance weights can be revealed in dual approximate linear programming.
 
 [Access the arXiv preprint](https://doi.org/10.48550/arXiv.2608.24629)
