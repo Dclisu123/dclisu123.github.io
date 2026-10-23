@@ -83,7 +83,7 @@ Collaborated on the development of two National Institutes of Health proposals a
 ## Teaching experience
 
 - **Instructor**, Rice University, August 2025–December 2026
-  - CMOR 462: Optimization in Finance (Fall 2026)
+  - CMOR 462: Optimization in Finance (Fall 2025 and Fall 2026)
   - CMOR 463: Operations Research in Healthcare
 - **Teaching Assistant**, Texas A&M University, May 2022–December 2023
   - ISEN 620/320: Survey of Optimization / Operations Research I
