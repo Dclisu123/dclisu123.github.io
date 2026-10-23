@@ -13,4 +13,4 @@ Instructor at Rice University from August 2025 through December 2026.
 ## Courses
 
 - **CMOR 462:** Optimization in Finance (Fall 2025 and Fall 2026)
-- **CMOR 463:** Operations Research in Healthcare
+- **CMOR 463:** Operations Research in Healthcare (Spring 2026)

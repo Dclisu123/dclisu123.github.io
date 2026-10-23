@@ -10,11 +10,13 @@ redirect_from:
 
 ## Background
 
-I hold a joint appointment as a **Postdoctoral Fellow** in the [Department of Computational Applied Mathematics and Operations Research at Rice University](https://cmor.rice.edu/) and a **Research Collaborator** at [The University of Texas MD Anderson Cancer Center](https://www.mdanderson.org/). I work with [Dr. Andrew J. Schaefer](https://profiles.rice.edu/faculty/andrew-schaefer) at Rice and [Dr. Iakovos Toumazis](https://faculty.mdanderson.org/profiles/iakovos_toumazis.html) at MD Anderson.
+I am a **Postdoctoral Fellow** in the [Department of Computational Applied Mathematics and Operations Research at Rice University](https://cmor.rice.edu/) and a **Visiting Research Scholar** at [The University of Texas MD Anderson Cancer Center](https://www.mdanderson.org/). I work with [Dr. Andrew J. Schaefer](https://profiles.rice.edu/faculty/andrew-schaefer) at Rice and [Dr. Iakovos Toumazis](https://faculty.mdanderson.org/profiles/iakovos_toumazis.html) at MD Anderson.
 
 Previously, I was a Postdoctoral Fellow in the [Department of Mechanical and Industrial Engineering at the University of Toronto](https://mie.utoronto.ca/), working with [Dr. Vahid Sarhangian](https://sarhangian.mie.utoronto.ca/), [Dr. André Augusto Ciré](https://utsc.utoronto.ca/mgmt/andre-cire), and [Dr. Adam Diamant](https://schulich.yorku.ca/faculty/adam-diamant/). I earned my Ph.D. in Industrial Engineering from [Texas A&M University](https://engineering.tamu.edu/industrial/index.html) in 2024 under the supervision of [Dr. Hrayer Aprahamian](https://engineering.tamu.edu/industrial/profiles/aprahamian-hrayer.html).
 
-## Research areas
+## Research interests
+
+My research in operations research and industrial engineering focuses on data-driven optimization for healthcare operations and public health decision-making.
 
 <div class="profile-grid">
   <div class="profile-card">
@@ -27,11 +29,11 @@ Previously, I was a Postdoctoral Fellow in the [Department of Mechanical and Ind
   </div>
   <div class="profile-card">
     <h3>Healthcare operations</h3>
-    <p>Decision support for cancer screening and diagnosis, imaging operations, patient sequencing, and public-health policy.</p>
+    <p>Decision support for healthcare scheduling and resource allocation, screening and diagnostic strategies, and infectious disease prevention and control.</p>
   </div>
 </div>
 
-My methodological interests also include combinatorial and network optimization. Across these areas, I focus on models that connect rigorous optimization with consequential, implementable decisions.
+My methodological interests also include combinatorial and network optimization and optimization for data analytics. Across these areas, I focus on models that connect rigorous optimization with consequential, implementable decisions.
 
 <div class="profile-note"><strong>Proposal experience:</strong> I have collaborated on the development of two National Institutes of Health proposals and one National Science Foundation proposal.</div>
 

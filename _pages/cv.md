@@ -9,30 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-[Download the current CV (PDF)](/files/Su_Li_CV_Aug_2026.pdf) · Updated August 31, 2026
+[Download the current CV (PDF)](/files/Su_Li_CV_Oct_2026.pdf) · Updated October 23, 2026
 
 ## Academic appointments
 
-- **Rice University / The University of Texas MD Anderson Cancer Center**, Houston, TX — Joint appointment, August 2025–present
-  - Postdoctoral Fellow, Rice University, Department of Computational Applied Mathematics and Operations Research
-  - Research Collaborator, MD Anderson Cancer Center
-  - Advisors: Dr. Andrew J. Schaefer and Dr. Iakovos Toumazis
+- **Rice University**, Houston, TX — Postdoctoral Fellow, Department of Computational Applied Mathematics and Operations Research, August 2025–present
+  - Advisor: Dr. Andrew J. Schaefer
+- **The University of Texas MD Anderson Cancer Center**, Houston, TX — Visiting Research Scholar, August 2025–present
+  - Advisor: Dr. Iakovos Toumazis
 - **University of Toronto**, Toronto, Canada — Postdoctoral Fellow, Department of Mechanical and Industrial Engineering, July 2024–July 2025
-  - Supervisors: Dr. Vahid Sarhangian, Dr. Adam Diamant, and Dr. André Augusto Ciré
+  - Advisors: Dr. Vahid Sarhangian; Dr. André Augusto Ciré (Rotman School of Management, University of Toronto); Dr. Adam Diamant (Schulich School of Business, York University)
 
 ## Education
 
 - **Ph.D. in Industrial Engineering**, Texas A&M University, 2024 — GPA: 4.00/4.00
+  - Advisor: Dr. Hrayer Aprahamian
 - **M.S. in Industrial Engineering**, Georgia Institute of Technology, 2018 — GPA: 3.60/4.00
 - **B.Eng. in Industrial and Systems Engineering**, The Hong Kong Polytechnic University, 2017 — GPA: 3.76/4.00; First Class Honors; minor in Software Engineering
 
-## Research areas
+## Research interests
 
-Optimization under uncertainty; combinatorial and network optimization; Markov decision processes and approximate dynamic programming; healthcare operations and public-health decision-making.
+Operations research and industrial engineering, with a focus on data-driven optimization for healthcare operations and public health decision-making. Research areas include optimization under uncertainty; combinatorial and network optimization; Markov decision processes and approximate dynamic programming; and optimization for data analytics. Applications include healthcare scheduling and resource allocation, screening and diagnostic strategies, and infectious disease prevention and control.
 
-## Grant and proposal experience
+## Research proposal development
 
-Collaborated on the development of two National Institutes of Health proposals and one National Science Foundation proposal.
+- **National Institutes of Health (NIH), two proposals:** Formalize research methods, mathematical models, and solution approaches, and translate the mathematical framework into clinical terms.
+- **National Science Foundation (NSF), one proposal:** Contribute to developing and refining the methodology section.
 
 ## Peer-reviewed journal articles
 
@@ -42,21 +44,30 @@ Collaborated on the development of two National Institutes of Health proposals a
   {% endif %}
 {% endfor %}</ul>
 
-## Submitted and working papers
+## Submitted manuscripts
 
 <ul>{% for post in site.publications reversed %}
-  {% if post.section == "submitted-working" %}
+  {% if post.section == "submitted-working" and post.status == "submitted" %}
+    {% include archive-single-cv.html %}
+  {% endif %}
+{% endfor %}</ul>
+
+## Working papers
+
+<ul>{% for post in site.publications reversed %}
+  {% if post.section == "submitted-working" and post.status == "working" %}
     {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %}</ul>
 
 ## Invited conference presentations
 
+- INFORMS Annual Meeting, San Francisco, CA, 2026
 - INFORMS Annual Meeting, Atlanta, GA, 2025
 - CORS Annual Conference, Edmonton, Canada, 2025
 - INFORMS Computing Society Conference, Toronto, Canada, 2025
 - INFORMS Annual Meeting, Seattle, WA, 2024
-- International Symposium on Mathematical Programming, Montréal, Canada, 2024
+- International Symposium on Mathematical Programming (ISMP), Montréal, Canada, 2024
 - INFORMS Annual Meeting, Phoenix, AZ, 2023
 - INFORMS Annual Meeting, Indianapolis, IN, 2022
 
@@ -84,7 +95,7 @@ Collaborated on the development of two National Institutes of Health proposals a
 
 - **Instructor**, Rice University, August 2025–December 2026
   - CMOR 462: Optimization in Finance (Fall 2025 and Fall 2026)
-  - CMOR 463: Operations Research in Healthcare
+  - CMOR 463: Operations Research in Healthcare (Spring 2026)
 - **Teaching Assistant**, Texas A&M University, May 2022–December 2023
   - ISEN 620/320: Survey of Optimization / Operations Research I
   - ISEN 340: Operations Research II

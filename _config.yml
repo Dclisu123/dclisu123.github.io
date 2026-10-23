@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Su Li"
 title_separator          : "-"
 name                     : &name "Su Li"
-description              : &description "Su Li is a Postdoctoral Fellow at Rice University and Research Collaborator at MD Anderson Cancer Center, working on optimization, Markov decision processes, and healthcare operations."
+description              : &description "Su Li is a Postdoctoral Fellow at Rice University and Visiting Research Scholar at The University of Texas MD Anderson Cancer Center, working on optimization, Markov decision processes, and healthcare operations."
 url                      : https://dclisu123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Dclisu123/dclisu123.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Su Li"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Fellow at Rice University · Research Collaborator at MD Anderson"
+  bio              : "Postdoctoral Fellow at Rice University · Visiting Research Scholar at MD Anderson"
   location         : "Houston, TX"
   employer         :
   pubmed           :

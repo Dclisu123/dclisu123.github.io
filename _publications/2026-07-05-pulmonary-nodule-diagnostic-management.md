@@ -10,7 +10,7 @@ venue: "Working paper"
 highlight: "Accepted at WCLC 2026 (World Conference on Lung Cancer)."
 highlight_label: "Presentation"
 paperurl: ""
-citation: "<strong>Li, S.</strong>, Toumazis, I., Schaefer, A., Ishizawa, S., Ozik, J., Collier, N. T., & Meza, R. (2026). A decision-analytic model to optimize diagnostic management for screen-detected pulmonary nodules."
+citation: "<strong>Li, S.</strong>, Toumazis, I., Schaefer, A., Ishizawa, S., Ozik, J., Collier, N. T., Meza, R., Lam, S., & Khattra, S. (2026). A decision-analytic model to optimize diagnostic management for screen-detected pulmonary nodules. <i>Working paper</i>."
 ---
 
 We develop a decision-analytic model for selecting diagnostic management strategies for pulmonary nodules detected through lung cancer screening.
