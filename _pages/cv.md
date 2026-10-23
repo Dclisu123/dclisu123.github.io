@@ -60,16 +60,16 @@ Operations research and industrial engineering, with a focus on data-driven opti
   {% endif %}
 {% endfor %}</ul>
 
-## Invited conference presentations
+## Conference presentations
 
-- INFORMS Annual Meeting, San Francisco, CA, 2026
-- INFORMS Annual Meeting, Atlanta, GA, 2025
-- CORS Annual Conference, Edmonton, Canada, 2025
-- INFORMS Computing Society Conference, Toronto, Canada, 2025
-- INFORMS Annual Meeting, Seattle, WA, 2024
-- International Symposium on Mathematical Programming (ISMP), Montréal, Canada, 2024
-- INFORMS Annual Meeting, Phoenix, AZ, 2023
-- INFORMS Annual Meeting, Indianapolis, IN, 2022
+- INFORMS Annual Meeting, San Francisco, CA, November 2026
+- INFORMS Annual Meeting, Atlanta, GA, October 2025 (invited)
+- CORS Annual Conference, Edmonton, Canada, June 2025 (invited)
+- INFORMS Computing Society Conference, Toronto, Canada, March 2025 (invited)
+- INFORMS Annual Meeting, Seattle, WA, October 2024 (invited)
+- International Symposium on Mathematical Programming (ISMP), Montréal, Canada, July 2024 (invited)
+- INFORMS Annual Meeting, Phoenix, AZ, October 2023 (invited)
+- INFORMS Annual Meeting, Indianapolis, IN, October 2022 (invited)
 
 ## Honors and awards
 

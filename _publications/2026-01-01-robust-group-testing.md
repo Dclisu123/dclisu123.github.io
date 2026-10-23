@@ -13,6 +13,4 @@ citation: "<strong>Li, S.</strong>, Aprahamian, H., & Chatterjee, S. (2026). A c
 
 We develop a convex relaxation-based spatial branching approach for optimal robust group testing designs when both prevalence rates and dilution behavior are uncertain.
 
-Recommended citation: **Li, S.**, Aprahamian, H., & Chatterjee, S. (2026). A convex relaxation-based spatial branching approach for optimal robust group testing designs under prevalence rate and dilution behavior uncertainty. *INFORMS Journal on Computing*. Article in Advance.
-
 [Access the paper](https://doi.org/10.1287/ijoc.2023.0465)
