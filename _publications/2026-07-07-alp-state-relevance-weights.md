@@ -1,5 +1,5 @@
 ---
-title: "Revealing state-relevance weights in dual approximate linear programming"
+title: "Dual-Based Weight Selection for Approximate Linear Programming"
 collection: publications
 section: submitted-working
 status: submitted
@@ -8,7 +8,7 @@ excerpt: "A dual approximate linear programming approach for revealing state-rel
 date: 2026-07-07
 venue: "Operations Research"
 paperurl: "https://doi.org/10.48550/arXiv.2608.24629"
-citation: "<strong>Li, S.</strong>, Ciré, A., Diamant, A., & Sarhangian, V. (2026). Revealing state-relevance weights in dual approximate linear programming. <i>Submitted to Operations Research</i>."
+citation: "<strong>Li, S.</strong>, Ciré, A., Diamant, A., & Sarhangian, V. (2026). Dual-Based Weight Selection for Approximate Linear Programming. <i>Submitted to Operations Research</i>."
 ---
 
 We study how state-relevance weights can be revealed in dual approximate linear programming.

@@ -5,6 +5,9 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /publications/
+  - /talks/
+  - /teaching/
 ---
 
 {% include base_path %}
