@@ -39,9 +39,10 @@ My methodological interests also include combinatorial and network optimization 
 
 ## Current research
 
-- **Cancer imaging operations:** Digital-twin and optimization-guided MRI patient sequencing to reduce changeovers and increase appointment-slot availability; submitted to *JCO Oncology Practice*, selected for Best of Professional at AAPM 2026, and accepted at the RSNA 2026 Annual Meeting.
+- **Cancer imaging operations:** Optimizing MRI exam sequencing using exam-specific changeovers; submitted to *JCO Clinical Cancer Informatics*, selected for Best of Professional at AAPM 2026, and accepted at the RSNA 2026 Annual Meeting.
 - **Cancer screening decisions:** A decision-analytic model for optimizing the diagnostic management of screen-detected pulmonary nodules; accepted at WCLC 2026.
 - **Approximate dynamic programming:** State-relevance weights, shape-constrained approximate linear programming, and decomposition algorithms for nested Markov decision processes.
+- **Head and neck cancer and other ongoing work:** A Markov decision model for feeding tube decision making in oropharyngeal cancer radiotherapy, submitted to *Cancer*; predictors of lower cranial neuropathy after oropharyngeal cancer treatment; polyhedral approaches and algorithms for inverse mixed-integer programming; and a literature review of gastric cancer natural history models.
 
 ## Education
 

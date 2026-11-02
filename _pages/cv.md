@@ -12,7 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download the current CV (PDF)](/files/Su_Li_CV_Oct_2026.pdf) · Updated October 23, 2026
+[Download the current CV (PDF)](/files/Su_Li_CV_Nov_2026.pdf) · Updated November 2, 2026
 
 ## Academic appointments
 
