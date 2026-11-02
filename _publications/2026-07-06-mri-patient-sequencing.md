@@ -1,16 +1,16 @@
 ---
-title: "Digital twin and optimization-guided MRI patient sequencing to reduce changeover and increase appointment-slot availability"
+title: "Optimizing MRI exam sequencing using exam-specific changeovers"
 collection: publications
 section: submitted-working
 status: submitted
 permalink: /publication/2026-07-06-mri-patient-sequencing
-excerpt: "Digital-twin and optimization methods for reducing MRI changeovers and increasing appointment availability."
+excerpt: "Optimizing MRI exam sequencing using exam-specific changeovers."
 date: 2026-07-06
-venue: "JCO Oncology Practice"
+venue: "JCO Clinical Cancer Informatics"
 highlight: "Selected for Best of Professional at AAPM 2026 (American Association of Physicists in Medicine); accepted at RSNA 2026 (Radiological Society of North America) Annual Meeting."
 highlight_label: "Recognition"
 paperurl: ""
-citation: "<strong>Li, S.</strong>, Schaefer, A. J., Jaffray, D. A., Siewerdsen, J. H., & Yung, J. P. (2026). Digital twin and optimization-guided MRI patient sequencing to reduce changeover and increase appointment-slot availability. <i>Submitted to JCO Oncology Practice</i>."
+citation: "<strong>Li, S.</strong>, Schaefer, A. J., Jaffray, D. A., Siewerdsen, J. H., & Yung, J. P. (2026). Optimizing MRI exam sequencing using exam-specific changeovers. <i>Submitted to JCO Clinical Cancer Informatics</i>."
 ---
 
-We use a digital twin and optimization-guided MRI patient sequencing to reduce changeover and increase appointment-slot availability.
+We optimize MRI exam sequencing using exam-specific changeovers.
